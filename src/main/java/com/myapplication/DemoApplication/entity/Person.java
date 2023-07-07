@@ -16,6 +16,7 @@ public class Person {
     private String name;
     private String address;
     private BigDecimal salary;
+    private int age;
 
     private String hobbies;
 
