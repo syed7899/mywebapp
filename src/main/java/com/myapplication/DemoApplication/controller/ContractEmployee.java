@@ -18,4 +18,23 @@ public class ContractEmployee{
     public void subraction(){
     }
 
+
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    public void multiplication(){
+       ***************************
+    }
+    
+
 }
