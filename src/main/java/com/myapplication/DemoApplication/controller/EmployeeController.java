@@ -49,4 +49,9 @@ public class EmployeeController {
     public String getStashMessagethroughbrowser(){
         return "Hello I will now commit this method through browser";
     }
+
+    @GetMapping("/commit-message")
+    public void commitMessage(){
+        System.out.println("Commiting this method");
+    }
 }
