@@ -39,4 +39,9 @@ public class EmployeeController {
     public String getMessage(){
         return "Hello How are you??";
     }
+
+    @GetMapping("/stashmessage")
+    public String getStashMessage(){
+        return "Hello I will commit this method";
+    }
 }
