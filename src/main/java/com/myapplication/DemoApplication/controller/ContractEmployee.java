@@ -12,4 +12,7 @@ public class ContractEmployee{
     public void m1(){
     }
 
+    public void addition(){
+    }
+
 }
