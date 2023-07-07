@@ -54,4 +54,9 @@ public class EmployeeController {
     public void commitMessage(){
         System.out.println("Commiting this method");
     }
+
+    @GetMapping("/additionstash")
+    public void additionstash(){
+        System.out.println("stash this method");
+    }
 }
