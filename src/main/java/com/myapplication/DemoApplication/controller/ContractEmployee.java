@@ -12,6 +12,9 @@ public class ContractEmployee{
     public void m1(){
     }
 
+    public void addition(){
+    }
+
     public void subraction(){
     }
 
