@@ -8,18 +8,9 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("/Person")
 public class PersonController {
 
-   line11
 
-   public void m1(){
-   }
-
-   public void m2(){
-   }
-
-
-
-
-   public void m3(){
+   public void changedMethodReflectedInBrowser(){
+      System.out.prinltn("changedMethodReflectedInBrowser");
    }
 
 
@@ -31,7 +22,5 @@ public class PersonController {
 
 
 
-   public void m4(){
 
-   }
 }
