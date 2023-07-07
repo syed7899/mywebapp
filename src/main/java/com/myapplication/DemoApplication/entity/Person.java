@@ -5,6 +5,8 @@ import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 
+import java.math.BigDecimal;
+
 @Entity
 public class Person {
 
@@ -13,5 +15,9 @@ public class Person {
     private int id;
     private String name;
     private String address;
+    private BigDecimal salary;
+
+    private String sex;
+
 
 }
