@@ -17,7 +17,4 @@ public class Person {
     private String address;
     private BigDecimal salary;
 
-    private String sex;
-
-
 }
