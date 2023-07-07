@@ -5,4 +5,7 @@ public class ContractEmployee{
         
     }
 
+    public void m1(){
+    }
+
 }
