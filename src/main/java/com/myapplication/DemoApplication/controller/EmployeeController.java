@@ -44,4 +44,9 @@ public class EmployeeController {
     public String getStashMessage(){
         return "Hello I will commit this method";
     }
+
+    @GetMapping("/stashmessagethrowghbrowsed")
+    public String getStashMessage(){
+        return "Hello I will now commit this method through browser";
+    }
 }
