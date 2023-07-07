@@ -14,9 +14,22 @@ public class PersonController {
    }
 
 
+    public void m1(){
+       System.out.prinltn("m1");
+    }
+
+   public void m2(){
+      System.out.prinltn("m2");
+   }
+
+   public void m3(){
+      System.out.prinltn("m3");
+   }
 
 
-
+   public void m4(){
+      System.out.prinltn("m4");
+   }
 
 
 
