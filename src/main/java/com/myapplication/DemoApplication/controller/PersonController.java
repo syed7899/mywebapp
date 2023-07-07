@@ -34,6 +34,10 @@ public class PersonController {
       System.out.prinltn("m4");
    }
 
+    public void issue1(){
+        System.out.prinltn("issue1");
+    }
+
 
 
 
